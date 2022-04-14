@@ -2,7 +2,7 @@
 // @name         faster-timer-for-s2oj
 // @namespace    http://tampermonkey.net/
 // @version      1.1.4
-// @description  Time goes fas
+// @description  Time goes fast
 // @author       XiEn
 // @match        https://www.sjzezoj.com/*
 // @match        https://sjzezoj.com/*
